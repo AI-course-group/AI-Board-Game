@@ -1,3 +1,5 @@
+# first time running this code, make sure to install pygame: pip install pygame or python3 install pygame 
+# to run the game type in terminal: python main.py
 import pygame
 import sys
 
