@@ -3,7 +3,7 @@
 import pygame
 import sys
 
-from game.logic import (
+from logic import (
     ROWS, COLS, P1, P2,
     create_board, find_drop_row, drop_piece, is_winner, is_draw
 )
